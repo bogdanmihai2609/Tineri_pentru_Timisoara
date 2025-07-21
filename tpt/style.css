@@ -1,0 +1,17 @@
+<style>
+.news-image {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+}
+
+.news-image:hover {
+  transform: scale(1.05); /* ușor zoom */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* efect de pop-up */
+  cursor: pointer;
+}
+</style>
+
+<!-- Imaginea din newsletter -->
+<img src="img/codru.jpg" alt="Proiect Pomi" class="news-image" style="width: 100%; height: auto;">
+
+
