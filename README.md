@@ -32,6 +32,6 @@ LOCALSTORAGE
 
 # DESIGN SI INTERFATA
  Fundal cu imagine reprezentativă pentru orașul Timișoara.
-- Font modern (Segoe UI).
+- Font modern (Segoe UI)
 - Elemente UI simple: formulare, butoane, secțiuni evidențiate.
 - Interfața este intuitivă, gândită pentru utilizatori tineri.
